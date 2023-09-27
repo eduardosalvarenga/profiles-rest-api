@@ -7,7 +7,6 @@
     <list default="true" id="df6e663b-be4a-4b5f-bd92-23da9ced4260" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/profiles_api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles_api/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profiles_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles_project/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1695849346439</updated>
       <workItem from="1695849347937" duration="1760000" />
-      <workItem from="1695851135956" duration="3529000" />
+      <workItem from="1695851135956" duration="4249000" />
     </task>
     <servers />
   </component>
